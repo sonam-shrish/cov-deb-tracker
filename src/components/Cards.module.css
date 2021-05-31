@@ -1,0 +1,14 @@
+.infected {
+  border-top: 4px solid rgba(0, 0, 255, 0.5);
+  color: blue;
+}
+
+.recovered{
+  border-top: 4px solid green;
+  color: green;
+}
+
+.deaths{
+  border-top: 4px solid rgba(255, 0, 0, 0.5);
+  color: red;
+}
